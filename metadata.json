@@ -1,0 +1,6 @@
+{
+  "name": "Harmonia - App de Música & Estúdio IA",
+  "description": "Player de música completo com streaming de áudio, visualizador em tempo real, equalizador de 10 bandas, sintetizador de beats e compositor de letras com Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
